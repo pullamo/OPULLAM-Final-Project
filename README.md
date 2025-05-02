@@ -1,25 +1,16 @@
 # OPULLAM-Final-Project
-Purpose: Each year when movie award season rolls around, we find there are many highly rated movies that we have never heard of. What is the reason that such critically acclaimed and highly rated movies fly under the radar? Does this mean that highly rated movies are performing worse at the box office than bigger named movies that are just rated average? 
-
-Folder/File Structure: 
-  
-  Code\n
-    ReadMe
-    File
-
+## _Movie Performance Analysis and Forecast_
+This page and its subpages looks to uncover insights and insights and trends to movie performance based on budget, genre, cast strength, director stength, and more. 
     
-  Data
-    ReadMe
-    Data Dictionary
-    Kaggle Dataset
-      Kaggle Webpage
-    Website
-      Website Data
-    
+## Folder Structure and Table of Contents
+The table below shows the folder/file and it's description:
+| Folder | Description |
+| ------ | ------ |
+| Data | The data folder houses all data files used in this project and the a dictionary describing each column of data |
+| ReadMe | Explains the purpose of the data folder |
+| Kaggle | Information about the kaggle dataset including the webpage, csv file, and data cleaning process |
+| Website | Information about the website we scraped from including the link to the page, why we used it, and the CSV of all scraped data
+| Code | The Code folder houses all files related to the code including the file, documentation, and more |
 
-Table of Contents:
-  Project Overview
-  Data
-  Code
 
 
